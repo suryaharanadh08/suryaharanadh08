@@ -1,5 +1,6 @@
 -- 👋 Hi, I’m @suryaharanadh08
 - 👀 I’m interested in Leveraging the capabilities of Artificial Intelligence.
+- SKILLS - Java,python,c,SQL,MongoDB.
 - 🌱 I’m currently learning Artificial Intelligence, Deep learning and Machine Vision
 - 📫 To reach me LINKED IN   - www.linkedin.com/in/suryaharanadh-badi
                   INSTAGRAM  - suryaharanadh08
