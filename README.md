@@ -1,13 +1,75 @@
--- 👋 Hi, I’m @suryaharanadh08
-- 👀 I’m interested in Leveraging the capabilities of Artificial Intelligence.
-- SKILLS - Java,python,c,SQL,MongoDB.
-- 🌱 I’m currently learning Artificial Intelligence, Deep learning and Machine Vision
-- 📫 To reach me LINKED IN   - www.linkedin.com/in/suryaharanadh-badi
-                  INSTAGRAM  - suryaharanadh08
-                  MAIL       - badisuryaharanadh@gmail.com
+# Hi there 👋, I'm Surya
 
+## 🚀 About Me
 
-<!---
-suryaharanadh08/suryaharanadh08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Software Professional specializing in **Integration Technologies**, **API Management (APIM)**, and **Enterprise Connectivity Solutions**.
+
+My current focus is on building expertise in:
+
+- 🔗 API Management & Integration
+- 🏢 IBM DataPower Gateway
+- 🌐 REST & SOAP Services
+- 🔒 API Security & Cyber Security
+- 🤖 Artificial Intelligence
+- 🐍 Python Automation
+- ☁️ Cloud & Modern Enterprise Architectures
+
+I enjoy exploring how systems communicate, securing APIs, automating repetitive tasks, and learning emerging technologies.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Integration & API Management
+- IBM DataPower Gateway
+- API Connect
+- REST APIs
+- SOAP Web Services
+- XML / JSON
+- XSLT
+- GatewayScript
+
+### Programming & Automation
+- Python
+- JavaScript
+- Bash
+
+### Security
+- API Security
+- OAuth
+- JWT
+- Basic Authentication
+- TLS / SSL Concepts
+
+### Learning & Research
+- Artificial Intelligence
+- Cyber Security
+- Cloud Technologies
+- Enterprise Integration Patterns
+
+---
+
+## 🎯 Current Learning Goals
+
+- Deep dive into IBM DataPower internals
+- API Security best practices
+- Python-based automation for DataPower administration
+- AI applications in enterprise integration
+- Cyber Security fundamentals and practical skills
+
+---
+
+## 📚 Areas of Interest
+
+- Enterprise Integration
+- API Gateways
+- Security Engineering
+- Network Technologies
+- Artificial Intelligence
+- Automation Engineering
+
+---
+
+### 📫 Connect With Me
+
+Feel free to explore my repositories and follow my learning journey.
