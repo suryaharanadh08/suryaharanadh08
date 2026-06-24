@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Surya
+# Hi there 👋, I'm Surya Haranadh Badi
 
-## 🚀 About Me
+## About Me
 
 I'm a Software Professional specializing in **Integration Technologies**, **API Management (APIM)**, and **Enterprise Connectivity Solutions**.
 
